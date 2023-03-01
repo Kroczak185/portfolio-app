@@ -1,4 +1,3 @@
-import react from "react";
 import grs from "../assets/portfolio/backgroundRemover.png";
 import hoduje from "../assets/portfolio/hoduje.png";
 import restaurant from "../assets/portfolio/restaurant.png";
@@ -20,6 +19,7 @@ const portfolios = [
         link: "https://github.com/Kroczak185/Background-Remover",
     },
 ];
+            
 
 export default function Portfolio() {
     return (
@@ -36,7 +36,7 @@ export default function Portfolio() {
 
                 <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-y-5 gap-x-5 px-12 sm:px-0">
                     {portfolios.map(({ id, src, link }) => (
-                        <a href={link} target="_blank">
+                        <a href={link} target="_blank" rel="noreferrer">
                             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
                                 <img
                                     src={src}
