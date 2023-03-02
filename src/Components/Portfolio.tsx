@@ -31,7 +31,7 @@ export default function Portfolio() {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">
                         Latest projects
                     </p>
-                    <p className="py-6">These are lastest projects that i created</p>
+                    <p className="py-6">These are the lastest projects that I have created</p>
                 </div>
 
                 <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-y-5 gap-x-5 px-12 sm:px-0">

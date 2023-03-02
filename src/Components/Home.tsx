@@ -18,7 +18,7 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white p-6  bg-black bg-opacity-60">
           I want to be a software engineer
           </h2>
-          <p className="text-gray-500 p-6  bg-black bg-opacity-60">
+          <p className="text-white p-6  bg-black bg-opacity-60">
             I have completed my studies at Silesian University of Technology and I’m looking for my first professional experience in programming.  I'm capable of working in a team and learning quickly
           </p>
 

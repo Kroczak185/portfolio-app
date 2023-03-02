@@ -84,7 +84,7 @@ export default function Skills() {
                     <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
                         Skills
                     </p>
-                    <p className="py-6">These are the technologies I've worked with</p>
+                    <p className="py-6">These are the technologies I've created my projects with</p>
                 </div>
 
                 <div className="w-full grid grid-cols-2 sm:grid-cols-5 gap-y-10 gap-x-10 text-center py-8 px-12 sm:px-0">
