@@ -8,7 +8,7 @@ import cpp from "../assets/techlogos/cpp.png";
 import java from "../assets/techlogos/java.png";
 import sql from "../assets/techlogos/sql.png";
 import photoshop from "../assets/techlogos/photoshop.png";
-import swift from "../assets/techlogos/swift.png";
+import azure from "../assets/techlogos/azure.png";
 import github from "../assets/techlogos/github.png";
 
 const techs = [
@@ -62,9 +62,9 @@ const techs = [
     },
     {
         id: 9,
-        src: swift,
-        title: "Swift",
-        style: "shadow-orange-400",
+        src: azure,
+        title: "Azure",
+        style: "shadow-blue-400",
     },
     {
         id: 10,
